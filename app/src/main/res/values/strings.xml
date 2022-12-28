@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaymentGateway</string>
+    <string name="pay">Pay Now</string>
+    <string name="bdt_amount">BDT 0</string>
+</resources>
